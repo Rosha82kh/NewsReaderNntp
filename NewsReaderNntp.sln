@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsReaderNntp", "NewsReaderNntp\NewsReaderNntp.csproj", "{4BE31C6A-0EDF-40D7-A0A9-EB2AFD1BF81A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE31C6A-0EDF-40D7-A0A9-EB2AFD1BF81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE31C6A-0EDF-40D7-A0A9-EB2AFD1BF81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE31C6A-0EDF-40D7-A0A9-EB2AFD1BF81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE31C6A-0EDF-40D7-A0A9-EB2AFD1BF81A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE32A5EC-7FC8-4763-B154-051559B3921B}
+	EndGlobalSection
+EndGlobal
